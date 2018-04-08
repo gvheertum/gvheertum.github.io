@@ -13,8 +13,9 @@ TaxModel, SuperDeveloper, Pulsatrix, .NET, C#, Architecture, Azure, SQL, Javascr
 - [ePubScan](http://superdeveloper.net/ePubScan)
 - [SimplyCrawl](http://superdeveloper.net/SimplyCrawl)
 - [Swift Development Playgrounds (BigNerdRange books)](http://superdeveloper.net/BigNerdRanch-SwiftDevelopment)
-BigNerdRanch-iOSDevelopment- [Swift iOS Development Playgrounds (BigNerdRange books)](http://superdeveloper.net/BigNerdRanch-SwiftDevelopment)
+BigNerdRanch-iOSDevelopment
+- [Swift iOS Development Playgrounds (BigNerdRange books)](http://superdeveloper.net/BigNerdRanch-SwiftDevelopment)
 
 ``` 
-TODO: Implement more projects!
+TODO: Showcase more projects!
 ```
