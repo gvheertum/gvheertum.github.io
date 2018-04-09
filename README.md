@@ -1,12 +1,15 @@
 ## Superdeveloper.net / Gertjan van Heertum
+![The future is quite a bit different than I expected](https://avatars1.githubusercontent.com/u/7596658)
 
 ### About me
+[My GitHub](https://github.com/gvheertum)
 ``` 
 //Todo: Implement
 ```
 
+
 ### Keywords
-TaxModel, SuperDeveloper, Pulsatrix, .NET, C#, Architecture, Azure, SQL, Javascript, MVC
+[TaxModel](https://github.com/TaxModel), SuperDeveloper, [Pulsatrix](https://github.com/pulsatrixbv), .NET, C#, Architecture, Azure, SQL, Javascript, MVC
 
 ### Sub projects
 *Not really much to see, but these are public anyway, so enjoy ;)*
