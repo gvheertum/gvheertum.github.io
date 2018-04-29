@@ -3,6 +3,7 @@
 
 ### About me
 [My GitHub](https://github.com/gvheertum)
+[My LinkedIn](https://www.linkedin.com/in/gertjanvanheertum/)
 ``` 
 //Todo: Implement
 ```
