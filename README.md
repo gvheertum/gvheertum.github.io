@@ -2,8 +2,8 @@
 ![The future is quite a bit different than I expected](https://avatars1.githubusercontent.com/u/7596658)
 
 ### About me
-[My GitHub](https://github.com/gvheertum)
-[My LinkedIn](https://www.linkedin.com/in/gertjanvanheertum/)
+- [My GitHub](https://github.com/gvheertum)
+- [My LinkedIn](https://www.linkedin.com/in/gertjanvanheertum/)
 ``` 
 //Todo: Implement
 ```
