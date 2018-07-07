@@ -18,7 +18,7 @@
 - [SimplyCrawl](https://superdeveloper.net/SimplyCrawl)
 - [Swift Development Playgrounds (BigNerdRange books)](https://superdeveloper.net/BigNerdRanch-SwiftDevelopment)
 - [Swift iOS Development Playgrounds (BigNerdRange books)](https://superdeveloper.net/BigNerdRanch-iOSDevelopment)
-- [CodinGame] (https://superdeveloper.net/CodinGame)
+- [CodinGame Challenges](https://superdeveloper.net/CodinGame)
 ``` 
 //TODO: Showcase more projects!
 ```
