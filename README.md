@@ -14,11 +14,11 @@
 
 ### Sub projects
 *Not really much to see, but these are public anyway, so enjoy ;)*
-- [ePubScan](http://superdeveloper.net/ePubScan)
-- [SimplyCrawl](http://superdeveloper.net/SimplyCrawl)
-- [Swift Development Playgrounds (BigNerdRange books)](http://superdeveloper.net/BigNerdRanch-SwiftDevelopment)
-- [Swift iOS Development Playgrounds (BigNerdRange books)](http://superdeveloper.net/BigNerdRanch-iOSDevelopment)
-
+- [ePubScan](https://superdeveloper.net/ePubScan)
+- [SimplyCrawl](https://superdeveloper.net/SimplyCrawl)
+- [Swift Development Playgrounds (BigNerdRange books)](https://superdeveloper.net/BigNerdRanch-SwiftDevelopment)
+- [Swift iOS Development Playgrounds (BigNerdRange books)](https://superdeveloper.net/BigNerdRanch-iOSDevelopment)
+- [CodinGame] (https://superdeveloper.net/CodinGame)
 ``` 
 //TODO: Showcase more projects!
 ```
