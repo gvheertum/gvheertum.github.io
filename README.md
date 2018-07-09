@@ -1,5 +1,5 @@
 ## Superdeveloper.net / Gertjan van Heertum
-![The future is quite a bit different than I expected](https://avatars1.githubusercontent.com/u/7596658)
+![Header](IMG_3598.jpg)
 
 ### About me
 - [My GitHub](https://github.com/gvheertum)
