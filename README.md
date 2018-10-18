@@ -15,6 +15,7 @@
 ### Sub projects
 *Not really much to see, but these are public anyway, so enjoy ;)*
 - [ePubScan](https://superdeveloper.net/ePubScan)
+- [QuoteClock](https://superdeveloper.net/QuoteClock)
 - [SimplyCrawl](https://superdeveloper.net/SimplyCrawl)
 - [Swift Development Playgrounds (BigNerdRange books)](https://superdeveloper.net/BigNerdRanch-SwiftDevelopment)
 - [Swift iOS Development Playgrounds (BigNerdRange books)](https://superdeveloper.net/BigNerdRanch-iOSDevelopment)
