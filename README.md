@@ -8,11 +8,6 @@ Recently I’ve has grown into a more strategic role where I was responsible for
 
 I love being a mentor for other developers and stakeholders in software projects. I like to assist colleagues with technical questions but am also not afraid to work with clients and end-users to be able to work towards the best possible solution. Combined with periodic reviews on code and process I try to get everybody to the next level.
 
-### \<option /\> | Exploring for job options
-I’m looking for a role that allows me to combine security, operational, strategy and development. In my current role I setup the ISMS for the ISO 27001 certification and am combining this with IT QA activities. I would love to find a new opportunity which will give me the same challenge and satisfaction as my current role. 
-
-Looking for jobs on a 24 to 32 hours basis since I would like to keep work and family balanced.
-
 ### \<meta name="keywords" /\> | Keywords
 [TaxModel](https://github.com/TaxModel), SuperDeveloper, [Pulsatrix](https://github.com/pulsatrixbv), .NET, C#, Architecture, Azure, SQL, Javascript, MVC, ISMS, ISO 27001
 
